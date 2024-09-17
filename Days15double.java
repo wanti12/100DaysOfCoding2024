@@ -13,13 +13,13 @@ public class Days15double {
 
         double value6 = 6.12345678987;
         double value7 = 7.98327458372;
-        double value8 = 6.82957520947;
-        double value9 = 6.98723456942;
-        double value10 = 6.98023348592;
-        double value11 = 6.13948502937;
-        double value12 = 6.74362923479;
-        double value13 = 6.49205869402;
-        double value14 = 6.46920593795;
+        double value8 = 12.82957520947;
+        double value9 = 22.98723456942;
+        double value10 = 33.98023348592;
+        double value11 = 44.13948502937;
+        double value12 = 55.74362923479;
+        double value13 = 66.49205869402;
+        double value14 = 77.46920593795;
         System.out.println("\nnilai ke-6 = " + String.format("%.7f", value6)
                 + "\nnilai ke-7 = " + String.format("%.7f", value7)
                 + "\nnilai ke-8 = " + String.format("%.7f", value8)
