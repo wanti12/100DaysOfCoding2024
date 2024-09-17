@@ -20,14 +20,16 @@ public class Days16float {
         B1 = 4f;
         B2 = 8f;
         B3 = 12f;
-        B4 = 16f;        
-
+        B4 = 16f;   
+        System.out.println("\nnilai B sebelum di update");
+        System.out.println("B1 = " + B1 + "\nB2 = " + B2 + "\nB3 = " + B3 + "\nB4 = " + B4);
+        
         float C = B1;
         B1 = B3;
         B3 = B4;
         B4 = B2;
         B2 = C;
-        System.out.println("\nnilai B setelah di update");
+        System.out.println("nilai B setelah di update");
         System.out.println("B1 = " + B1 + "\nB2 = " + B2 + "\nB3 = " + B3 + "\nB4 = " + B4);
     }
 
