@@ -3,7 +3,7 @@ package days23;
 public class Days23 {
 
     public static void main(String[] args) {
-        Long saldoAwal, penerimaan, saldoAkhir,saldoSementara, pengeluaran1, pengeluaran2, pengeluaran3, pengeluaran4, pengeluaran5,totalP;
+        Long saldoAwal, penerimaan, saldoAkhir, pengeluaran1, pengeluaran2, pengeluaran3, pengeluaran4, pengeluaran5,totalP;
         saldoAwal = 5000000L;
         System.out.println("saldo awal bulan lalu sebesar " + saldoAwal);
         penerimaan = 2500000L;
