@@ -10,7 +10,8 @@ public class days25 {
         hargaPaku = 20.000;
         hargaCat = 250.000;
         System.out.println("harga barang");
-        System.out.printf("harga semen = %.3f\nharga pasir = %.3f\nharga bata = %.3f\nharga paku= %.3f\nharga cat= %.3f\n"
+        System.out.printf("harga semen = %.3f\nharga pasir = %.3f\nharga bata = %.3f\n"
+                + "harga paku= %.3f\nharga cat= %.3f\n"
                 ,hargaSemen,hargaPasir,hargaBatuBata,hargaPaku,hargaCat);
         
         Double jumlahS=10.0;
