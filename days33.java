@@ -19,7 +19,7 @@ public class days33 {
         System.out.println("hasil casting short menjadi float = " + e);
 
         double f = 999875432;
-        System.out.println("nila long = " + f);
+        System.out.println("nila double = " + f);
         long g = (long) f;
         System.out.println("hasil casting double menjadi long = " + g);
         
