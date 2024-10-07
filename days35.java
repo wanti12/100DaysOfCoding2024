@@ -6,7 +6,7 @@ public class days35 {
 
     public static void main(String[] args) {
         Scanner wa = new Scanner(System.in);
-        System.out.println("operasi penjumlahan penjumlahan");
+        System.out.println("operasi penjumlahan");
         System.out.println("angka pertama : ");
         int a = wa.nextInt();
         System.out.println("angka kedua : ");
