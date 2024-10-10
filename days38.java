@@ -16,7 +16,7 @@ public class days38 {
         long d = 21119;
         System.out.println("nilai awal long = " + d);
         d *= b;
-        System.out.println("nilai awal long setelah operasi perkalian = " + d);
+        System.out.println("nilai long setelah operasi perkalian = " + d);
 
         float e = 9987.123f;
         System.out.printf("nilai double = %f%n", e);
