@@ -16,7 +16,7 @@ public class days39 {
         int c = a % b;
         System.out.printf("sisa bagi %d / %d = %d%n", a, b, c);
         
-        //operasi penugasan,perkalian,dan sisa bagis
+        //operasi penugasan,perkalian,dan sisa bagi
         System.out.println("masukkan angka ketiga ");
         int d = wa.nextInt();
         int e = d * c;
