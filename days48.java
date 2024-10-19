@@ -11,7 +11,7 @@ public class days48 {
         System.out.println("masukkan umur pelanggan  ");
         byte umur = wa.nextByte();
         System.out.println("total belanjaan ");
-        double harga = wa.nextInt();
+        double harga = wa.nextDouble();
 
         if (umur >= 18 && harga >= 1000000) {
             System.out.println("");
