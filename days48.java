@@ -22,7 +22,7 @@ public class days48 {
             System.out.printf("total harga yang harus di bayar = %.2f%n", hargaDiskon);
             System.out.println("pelanggan berhak mendapatkan potongan harga sebesar 10%");
         } else {
-            System.out.printf("nama pelangggan: %S%n", nama);
+            System.out.printf("nama pelangggan: %s%n", nama);
             System.out.printf("usia: %d%n", umur);
             System.out.println("status pelanggan: pelanggan reguler");
             System.out.printf("total harga yang harus di bayar = %.2f%n",harga);
