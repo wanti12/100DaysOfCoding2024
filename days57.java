@@ -31,7 +31,7 @@ public class days57 {
             System.out.printf("%ntotal bilangan genap dari 1 - %d = %d%n", a, Tgenap);
             System.out.printf("total bilangan ganjil dari 1 - %d = %d%n", a, Tganjil);
         } else {
-            System.out.println("input harus positif");
+            System.out.println("input harus positif dan besar nol");
         }
     }
 }
