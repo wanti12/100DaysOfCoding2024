@@ -20,11 +20,6 @@ public class days63 {
                     continue;
                 }
                 System.out.print(a + " ");
-
-//                if (a == batas) {
-//                    break;
-//                }
-
             }
         } else {
             System.out.println("angka yang di inputkan melebihi batas loop");
