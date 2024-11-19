@@ -5,11 +5,9 @@ import java.util.Scanner;
 public class days79 {
 
     public static void main(String[] args) {
-        Scanner wa = new Scanner(System.in);
+         Scanner wa = new Scanner(System.in);
         String hasilString;
-        int hasil = 0;
         int a = 20003;
-
         hasilString = Integer.toString(a);
         System.out.printf("nilai int : %d%n", a);
         System.out.printf("nilai int dalam String : %s%n", hasilString);
@@ -21,6 +19,7 @@ public class days79 {
 
         System.out.print("input 8 bit(bil binner): ");
         String x = wa.nextLine();
+        int hasil = 0;
         int desimal;
         int n = 128;
 
